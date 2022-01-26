@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3em;
+    background-color: #f5f1e7;
+}
+
+.horizontal-center {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.holder {
+    margin-top: 10%;
+}
+.circular-square {
+    border-radius: 50%;
+}
